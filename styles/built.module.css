@@ -1,0 +1,38 @@
+ @import url('https://fonts.googleapis.com/css2?family=Electrolize&display=swap');
+
+ #div1{
+    background-image: url("../public/built.jpg");
+    
+    width: auto;
+    height: 450px;
+    background-position: center;
+    background-size: cover;
+} 
+#div2{
+    position: relative;
+}
+#div2 h3{
+    color: aliceblue;
+    font-family: 'Electrolize', sans-serif;
+}
+#div2 p{
+    color: aliceblue;
+    margin-top: 80px;
+    width: auto;
+    font-family: 'Electrolize', sans-serif;
+}
+#div2 i {
+    color: goldenrod;
+    font-size: 25px;
+} 
+.title{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    
+}
+.title h1{
+    font-family: 'Electrolize', sans-serif;
+    color: wheat;
+}

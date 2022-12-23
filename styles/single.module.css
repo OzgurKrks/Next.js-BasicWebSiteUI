@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Electrolize&display=swap');
+
+.img {
+    width: 500px;
+    height: 390px;
+}
+
+#col8 {
+    height: 600px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#col4 {
+    width: auto;
+   
+    
+   
+    color: white;
+    
+    margin-top: 50px;
+}
+
+#col4 h1 {
+    width:350px;
+    font-size: 30px;
+    font-family: 'Electrolize', sans-serif;
+}
+#icon{
+    color: green;
+    font-size: 23px;
+}
+.span{
+    color: #000;
+    margin-left: 25px;
+}
+#col4 div {
+    height: auto;
+
+}
+
+.icons i {
+    margin-left: 7px;
+    color: rgb(21, 21, 204);
+}
+
+.buttons {
+    display: flex;
+    margin-top: 15px;
+}
+
+.buttons button {
+    width: 50px;
+    background: goldenrod;
+    margin-left: 10px;
+
+}
+#select{
+    width: auto;
+}
+
+.buttons h4 {
+    margin-left: 10px;
+}
+
+#addCart {
+    width: 390px;
+    height: 50px;
+    margin-top: 20px;
+    background-color: rgb(87, 87, 214);
+
+}
+
+#addCart:hover {
+
+    background-color: rgb(34, 34, 212);
+
+}
+
+#addCart h2 {
+    color: rgb(235, 221, 221);
+    font-family: 'Electrolize', sans-serif;
+    padding: 5px;
+
+}
+.Modalimg{
+    width: 150px;
+    height: 120px;
+}
+#col7 h1{
+    color: black;
+    font-size: 18px;
+    width: 300px;
+    padding-left: 10px;
+}
+#footer{
+    color: black;
+}
+.iconss{
+    padding: 10px;
+    color: blue;
+}

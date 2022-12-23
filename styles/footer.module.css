@@ -1,0 +1,55 @@
+#container{
+    width: 100%;
+    height: auto;
+    margin-top: 180px;
+   
+    
+}
+#container h5{
+    color:white;
+    margin-bottom: 25px;
+}
+#container li{
+  list-style:square;
+  padding: 20px;
+  font-size: 20px;
+  color: rgb(102, 158, 17);
+}
+#colFirst{
+    width: 190px;
+}
+#hr{
+    max-height: 3px;
+    color: rgb(83, 89, 94);
+}
+#footer{
+    display: flex;
+    
+    align-items: center;
+    justify-content:space-around;
+    height: 50px;
+    
+}
+.icon i{
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+}
+.icon i:hover{
+    color: gold;
+    
+    
+}
+#col4{
+    display: flex;
+    justify-content: center;
+   
+    
+}
+#colFirst h4{
+    color: aliceblue;
+    margin-bottom: 15px;
+}
+#colFirst p{
+    color: rgb(144, 147, 150);
+}

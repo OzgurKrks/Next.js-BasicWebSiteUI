@@ -1,0 +1,27 @@
+.header{
+    width: 600px;
+    height: 80px;
+    background-color: rgb(14, 153, 153);
+    color: rgb(197, 183, 183);
+    display: flex;
+    align-items: center;
+}
+.header h1{
+   width: auto;
+}
+.content{
+    margin-top: 25px;
+    color: antiquewhite;
+}
+.content p{
+    margin-top: 25px;
+    
+}
+.image{
+    background-image: url("../public/built.jpg");
+    
+    width: auto;
+    height: 450px;
+    background-position: center;
+    background-size: cover;
+}

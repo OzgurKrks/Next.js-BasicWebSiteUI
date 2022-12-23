@@ -1,0 +1,70 @@
+
+#Shop1{
+    width: 500px;
+    height: 430px;
+    background-image: url("../public/supp.jpg");
+    background-position: center ;
+    background-size: cover;
+    object-fit: cover;
+    transition: 0.6s all;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#Shop1:hover  {
+    transform: scale(1.1);
+    opacity: 0.8;
+}
+#Shop1:hover .btn {
+    opacity: 1;
+}
+.btn:hover{
+    opacity: 1;
+}
+#Shop2{
+    width: 500px;
+   
+    height: 430px;
+    background-image: url("../public/suppl.jpg");
+    background-position: center ;
+    background-size: cover;
+    transition: 0.6s ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+#Shop2:hover {
+    transform: scale(1.1);
+    opacity: 0.8;
+}
+#Shop2:hover .btn {
+    opacity: 1;
+}
+#col{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    
+}
+#title{
+    width: 100%;
+    height: 250px;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#title h1{
+    font-family: 'Electrolize', sans-serif;
+    color: azure;
+}
+.btn{
+    width: 150px;
+    height: 40px;
+    border: none;
+    opacity: 0;
+    transition: 0.8s;
+    background-color: gold;
+    
+}

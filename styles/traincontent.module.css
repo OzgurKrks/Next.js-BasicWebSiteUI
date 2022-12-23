@@ -1,0 +1,34 @@
+#container{
+    background-image: url("../public/workout.jpg");
+    width: 1000px;
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    opacity: 0.8;
+    display: flex;
+    
+    margin-top: 150px;
+
+}
+#row {
+    width: 100%;
+    height: 10px;
+    color: white;
+    margin-top: 100px;
+}
+.footer{
+    width: 300px;
+    height: 150px;
+    border: 2px solid goldenrod;
+    color: goldenrod;
+    padding: 10px;
+    
+}
+.button{
+    margin-top: 10px;
+    width: 300px;
+    height: 50px;
+    border: none;
+    background-color: black;
+    color: goldenrod;
+}
